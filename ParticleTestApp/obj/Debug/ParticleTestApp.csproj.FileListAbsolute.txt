@@ -1,0 +1,12 @@
+D:\Sandbox\ParticleTestApp\ParticleTestApp\bin\Debug\ParticleTestApp.exe.config
+D:\Sandbox\ParticleTestApp\ParticleTestApp\bin\Debug\ParticleTestApp.exe
+D:\Sandbox\ParticleTestApp\ParticleTestApp\bin\Debug\ParticleTestApp.pdb
+D:\Sandbox\ParticleTestApp\ParticleTestApp\bin\Debug\Newtonsoft.Json.dll
+D:\Sandbox\ParticleTestApp\ParticleTestApp\bin\Debug\Particle.SDK.dll
+D:\Sandbox\ParticleTestApp\ParticleTestApp\bin\Debug\Newtonsoft.Json.xml
+D:\Sandbox\ParticleTestApp\ParticleTestApp\obj\Debug\ParticleTestApp.csprojResolveAssemblyReference.cache
+D:\Sandbox\ParticleTestApp\ParticleTestApp\obj\Debug\ParticleTestApp.Form1.resources
+D:\Sandbox\ParticleTestApp\ParticleTestApp\obj\Debug\ParticleTestApp.Properties.Resources.resources
+D:\Sandbox\ParticleTestApp\ParticleTestApp\obj\Debug\ParticleTestApp.csproj.GenerateResource.Cache
+D:\Sandbox\ParticleTestApp\ParticleTestApp\obj\Debug\ParticleTestApp.exe
+D:\Sandbox\ParticleTestApp\ParticleTestApp\obj\Debug\ParticleTestApp.pdb
