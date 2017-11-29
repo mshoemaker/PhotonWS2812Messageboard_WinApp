@@ -10,3 +10,16 @@ D:\Sandbox\ParticleTestApp\ParticleTestApp\obj\Debug\ParticleTestApp.Properties.
 D:\Sandbox\ParticleTestApp\ParticleTestApp\obj\Debug\ParticleTestApp.csproj.GenerateResource.Cache
 D:\Sandbox\ParticleTestApp\ParticleTestApp\obj\Debug\ParticleTestApp.exe
 D:\Sandbox\ParticleTestApp\ParticleTestApp\obj\Debug\ParticleTestApp.pdb
+d:\sandbox\PhotonWS2812Messageboard_WinApp\ParticleTestApp\bin\Debug\ParticleTestApp.exe.config
+d:\sandbox\PhotonWS2812Messageboard_WinApp\ParticleTestApp\bin\Debug\ParticleTestApp.exe
+d:\sandbox\PhotonWS2812Messageboard_WinApp\ParticleTestApp\bin\Debug\ParticleTestApp.pdb
+d:\sandbox\PhotonWS2812Messageboard_WinApp\ParticleTestApp\bin\Debug\Newtonsoft.Json.dll
+d:\sandbox\PhotonWS2812Messageboard_WinApp\ParticleTestApp\bin\Debug\Particle.SDK.dll
+d:\sandbox\PhotonWS2812Messageboard_WinApp\ParticleTestApp\bin\Debug\Newtonsoft.Json.xml
+d:\sandbox\PhotonWS2812Messageboard_WinApp\ParticleTestApp\obj\Debug\ParticleTestApp.csprojResolveAssemblyReference.cache
+d:\sandbox\PhotonWS2812Messageboard_WinApp\ParticleTestApp\obj\Debug\ParticleTestApp.Form1.resources
+d:\sandbox\PhotonWS2812Messageboard_WinApp\ParticleTestApp\obj\Debug\ParticleTestApp.Properties.Resources.resources
+d:\sandbox\PhotonWS2812Messageboard_WinApp\ParticleTestApp\obj\Debug\ParticleTestApp.csproj.GenerateResource.Cache
+d:\sandbox\PhotonWS2812Messageboard_WinApp\ParticleTestApp\obj\Debug\ParticleTestApp.csproj.CoreCompileInputs.cache
+d:\sandbox\PhotonWS2812Messageboard_WinApp\ParticleTestApp\obj\Debug\ParticleTestApp.exe
+d:\sandbox\PhotonWS2812Messageboard_WinApp\ParticleTestApp\obj\Debug\ParticleTestApp.pdb
